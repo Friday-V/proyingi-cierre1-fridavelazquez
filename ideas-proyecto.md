@@ -2,7 +2,7 @@
 
 **Autor:** Frida Velazquez Anaya 
 
-**Fecha:** Domingo 20 de sep
+**Fecha:** Domingo 20 de sep 2026
 
 ---
 
@@ -91,3 +91,4 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 - **Herramienta utilizada:** ChatGPT, modelo GPT-5.6 Luna
 - **Qué le pedí:** Ayuda para evaluar y organizar ideas de proyectos de ingeniería de primer semestre que cumplieran con los criterios de la materia, además de ayudarme a redactar y dictar algunas partes del documento.
 - **Qué modifiqué o rechacé de su respuesta, y por qué:** Modifiqué las ideas para partir de problemas que he observado o experimentado personalmente y descarté propuestas demasiado generales o difíciles de realizar en ocho sesiones.
+ 
