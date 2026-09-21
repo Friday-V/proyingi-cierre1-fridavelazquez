@@ -17,10 +17,6 @@ Soy Frida y soy de Puebla. Elegí Ingeniería en Sistemas Computacionales porque
 
 ## Contenido de este repositorio
 
-> Instrucción: si estás trabajando dentro de tu vault de Obsidian, puedes usar enlaces
-> internos con dobles corchetes, por ejemplo [[ideas-proyecto]]. Si estás trabajando
-> directamente en GitHub, deja los enlaces como están abajo.
-
 - [Ideas de proyecto](ideas-proyecto.md) — tres ideas de proyecto para la materia, con su análisis de viabilidad.
 - [Investigación](investigacion.md) — ejemplos que ya existen y fuentes consultadas.
 

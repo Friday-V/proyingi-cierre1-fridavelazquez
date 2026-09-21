@@ -64,10 +64,6 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 ## Tabla de viabilidad
 
-> Instrucción: escribe Sí, No o Parcial en cada celda. Una idea con un "No" no está
-> descalificada: lo que se evalúa es que reconozcas el problema, no que las tres ideas
-> salgan perfectas.
-
 | Criterio | Idea 1 | Idea 2 | Idea 3 |
 |---|---|---|---|
 | Problema concreto de mi entorno |Sí | Sí| Sí|
