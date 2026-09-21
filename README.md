@@ -13,7 +13,7 @@
 ---
 
 ## Sobre mí
-Soy Frida y soy de Puebla. Elegí Ingeniería en Sistemas Computacionales porque no sabía qué estudiar y sentí que era una opción en la que soy relativamente buena, así que fue una elección "segura". No espero construir nada en específico durante la carrera, pero me encantaría aprender y descubrir qué puedo hacer con lo que vaya aprendiendo
+Soy Frida y soy de Puebla. Elegí Ingeniería en Sistemas Computacionales porque no sabía qué estudiar y sentí que era una opción en la que soy relativamente buena, así que fue una elección "segura". No espero construir nada en específico durante la carrera, pero me encantaría aprender y descubrir qué puedo hacer con lo que vaya aprendiendo.
 
 ## Contenido de este repositorio
 
@@ -29,15 +29,15 @@ Soy Frida y soy de Puebla. Elegí Ingeniería en Sistemas Computacionales porque
 | Herramienta | ¿Para qué la uso? | ¿Ya la tengo funcionando? |
 |---|---|---|
 | Markdown | Para escribir y organizar la información de los archivos |Sí|
-| Obsidian | Para visualizar el MD y para ver sus conecciones|A medias|
+| Obsidian | Para visualizar el MD y para ver sus conexiones|A medias|
 | Git | Para guardar los cambios y descargar actualizaciones de GitHub|A medias|
-| GitHub | Para crear el repositorio y clonarlo en GIT |Sí|
+| GitHub | Para crear el repositorio y clonarlo en Git |Sí|
 
 ## Cómo voy en el curso
 
-- [x] Sé usar ls y cd sin perderme tanto (En la terminal)
+- [x] Sé usar ls y cd sin perderme tanto (en la terminal)
 - [ ] Todavía me confundo con git clone y los archivos de Obsidian
-- [ ] Quiero aprender a visualizar correctamente el repositorio en Obsidian (Estoy tabajando en VS code)
+- [ ] Quiero aprender a visualizar correctamente el repositorio en Obsidian (Estoy trabajando en VS Code)
 
 ---
 
