@@ -33,10 +33,6 @@
 
 ## Parte 2. Fuentes de la idea que elegí
 
-> Instrucción: de dos a tres fuentes, solo de la idea elegida. Todavía no se pide formato
-> APA; eso llega más adelante en el curso. Lo que se pide es que distingas quién publicó
-> la información y por qué le crees.
-
 ### Fuente 1
 
 | Campo | Contenido |
@@ -45,7 +41,7 @@
 | Título | A Persuasive Poster to Encourage Children to Organize their Rooms |
 | Año | 2007 |
 | Enlace | https://peiyaoh.github.io/smart-poster-persuasive-children/ |
-| Tipo | [ Proyecto académico ] |
+| Tipo | Proyecto académico|
 | Por qué le creo | Es documentación del proyecto académico |
 | Qué dato me dio | Utiliza RFID para detectar si determinados objetos están colocados en los lugares correspondientes|
 
@@ -79,4 +75,4 @@ Mi propuesta sería más sencilla y modular que el proyecto encontrado. En lugar
 
 - **Herramienta utilizada:** Perplexity y ChatGPT (GPT-5.6 Luna)
 - **Qué le pedí:**  A Perplexity le pedí que me ayudara a encontrar fuentes reales y verificables para las tres ideas de proyecto y a organizar la información de esas fuentes. A ChatGPT le pedí que revisara la ortografía y redacción de la investigación.
-- **Qué modifiqué o rechacé de su respuesta, y por qué:** Revisé las fuentes propuestas y cambié algunas que no me parecieron suficientemente claras o relacionadas con mi proyecto. También adapté la información técnica a lo que realmente voy a utilizar y corregí algunos aspectos de redacción para que el documento fuera más claro
+- **Qué modifiqué o rechacé de su respuesta, y por qué:** Revisé las fuentes propuestas y cambié algunas que no me parecieron suficientemente claras o relacionadas con mi proyecto. También adapté la información técnica a lo que realmente voy a utilizar y corregí algunos aspectos de redacción para que el documento fuera más claro.
