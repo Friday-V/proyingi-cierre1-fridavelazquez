@@ -8,21 +8,21 @@
 
 ---
 
-### Idea 1: [nombre]
+### Idea 1: Mapa de disponibilidad de zonas de descanso del IDIT
 
 - **Qué encontré:** Seat U: Sensing System for Real-time Library Seat Occupation Detection
 - **Enlace:** https://courses.grainger.illinois.edu/ece445zjui/project.asp?id=10451
 - **Qué hace:** Utiliza sensores para detectar si los espacios están ocupados y muestra su disponibilidad en una aplicación
 - **Por qué no resuelve mi caso:** El funcionamiento es muy parecido, ya que ambos detectan si un espacio está ocupado y muestran su disponibilidad. La principal diferencia es el espacio donde se aplican y el problema específico que busca resolver cada uno.
 
-### Idea 2: [nombre]
+### Idea 2: Organizador inteligente modular para objetos importantes
 
 - **Qué encontré:** A Persuasive Poster to Encourage Children to Organize their Rooms
 - **Enlace:** https://peiyaoh.github.io/smart-poster-persuasive-children/
 - **Qué hace:** Utiliza sensores RFID para detectar si diferentes objetos están colocados en los lugares correspondientes y muestra una respuesta dependiendo de si están organizados.
 - **Por qué no resuelve mi caso:** Está diseñado para ayudar a niños a mantener sus objetos organizados y utiliza RFID. Mi propuesta estaría enfocada en recordar objetos importantes antes de salir de casa y tendría un diseño modular para que cada persona pueda elegir qué objetos necesita controlar.
 
-### Idea 3: [nombre]
+### Idea 3: Indicador de ruido para zonas de trabajo colaborativo
 
 - **Qué encontré:** Innovating with an Arduino: Traffic Light Noise Meter
 - **Enlace:** https://davidvaleri.wordpress.com/2015/05/25/innovating-with-an-arduino-traffic-light-noise-meter/
