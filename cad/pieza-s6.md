@@ -47,5 +47,4 @@ DXF y utilizarlo posteriormente para el corte láser.
 - **Qué modifiqué o rechacé de su respuesta, y por qué:** Modifiqué la
   descripción para que correspondiera con mi diseño y con la función que
   tendrá dentro del organizador inteligente modular. Las medidas y la
-  geometría de la pieza fueron realizadas por mí en la herramienta CAD.
-  
+  geometría de la pieza fueron realizadas por mí en la herramienta CATIA.
