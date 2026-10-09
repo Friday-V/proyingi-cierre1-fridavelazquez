@@ -13,9 +13,9 @@ Medí el MDF con un vernier en diferentes puntos de la placa. Las medidas estuvi
 - Largo de la caja: 80 mm
 - Ancho de la caja: 50 mm
 - Alto de la caja: 60 mm
-- Espesor del material: 3.0 mm
-- Kerf: 0.20 mm (valor provisional)
-- Ranura: 2.80 mm
+- Espesor del material: 3.0 mm (actualizado en sesión 7)
+- Kerf: 0.112 mm (actualizado en sesión 7)
+- Ranura: 2.888 mm (actualizado en sesión 7)
 - Separación entre piezas: 3 mm
 
 La ranura se calculó con la fórmula:
@@ -24,13 +24,13 @@ La ranura se calculó con la fórmula:
 
 Por lo tanto:
 
-`3.0 mm - 0.20 mm = 2.80 mm`
+`3.0 mm - 0.112 mm = 2.888 mm`
 
-El valor del kerf es provisional porque se va a comprobar con la tira de prueba antes de hacer el corte definitivo.
+El valor del kerf ya se comprovó con la tira de prueba.
 
 ## Dificultades
 
-Lo que más se me complicó fue entender cómo utilizar el espesor del MDF y el kerf para hacer las uniones de la caja. También tuve que medir el MDF varias veces porque el espesor no era exactamente igual en todos los puntos. La tira de prueba me ayudará a obtener un valor más preciso del kerf y ajustar las ranuras antes del corte final.
+Lo que más se me complicó fue entender cómo utilizar el espesor del MDF y el kerf para hacer las uniones de la caja. También tuve que medir el MDF varias veces porque el espesor no era exactamente igual en todos los puntos. La tira de prueba me ayudó a obtener un valor más preciso del kerf.
 
 ## Declaración de uso de IA
 
